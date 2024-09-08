@@ -2,7 +2,7 @@
 
 ## Conecte-se comigo
 [![Perfil DIO](https://web.dio.me/users/alexjunior4532?tab=achievements)
-[![LinkedIn](https://www.linkedin.com/in/alex-nascimento-805797239/)
+[!(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][LinkedIn](https://www.linkedin.com/in/alex-nascimento-805797239/)
 
 ## [Ferramentas](https://github.com/AlexJr45)
 
